@@ -1,0 +1,5 @@
+[
+    { "nombre": "Preferido 23", "img":"src/img/num-23.jpg", "id": 1 },
+    { "nombre": "Preferido 03", "img":"src/img/num-03.jpg", "id": 2 },
+    { "nombre": "Preferido 06", "img":"src/img/num-06.jpg", "id": 3 }
+  ]
